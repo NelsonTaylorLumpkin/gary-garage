@@ -1,0 +1,15 @@
+C:\Users\Owner\workspace\gary-garage\obj\Debug\net7.0\gary-garage.csproj.AssemblyReference.cache
+C:\Users\Owner\workspace\gary-garage\obj\Debug\net7.0\gary-garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\workspace\gary-garage\obj\Debug\net7.0\gary-garage.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\gary-garage\obj\Debug\net7.0\gary-garage.AssemblyInfo.cs
+C:\Users\Owner\workspace\gary-garage\obj\Debug\net7.0\gary-garage.csproj.CoreCompileInputs.cache
+C:\Users\Owner\workspace\gary-garage\bin\Debug\net7.0\gary-garage.exe
+C:\Users\Owner\workspace\gary-garage\bin\Debug\net7.0\gary-garage.deps.json
+C:\Users\Owner\workspace\gary-garage\bin\Debug\net7.0\gary-garage.runtimeconfig.json
+C:\Users\Owner\workspace\gary-garage\bin\Debug\net7.0\gary-garage.dll
+C:\Users\Owner\workspace\gary-garage\bin\Debug\net7.0\gary-garage.pdb
+C:\Users\Owner\workspace\gary-garage\obj\Debug\net7.0\gary-garage.dll
+C:\Users\Owner\workspace\gary-garage\obj\Debug\net7.0\refint\gary-garage.dll
+C:\Users\Owner\workspace\gary-garage\obj\Debug\net7.0\gary-garage.pdb
+C:\Users\Owner\workspace\gary-garage\obj\Debug\net7.0\gary-garage.genruntimeconfig.cache
+C:\Users\Owner\workspace\gary-garage\obj\Debug\net7.0\ref\gary-garage.dll
